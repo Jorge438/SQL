@@ -1,0 +1,1 @@
+SELECT * FROM orders WHERE date = '2022-02-11' AND date < '2022-02-11' ORDER BY date DESC;
